@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Davi do couto!😎
 
-## Entre em contato:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-couto-a347b226a/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](coutodavi530@gmail.com)
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=Davicouto530&show_icons=true&theme=transparent)
 
@@ -13,3 +11,6 @@
   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt+"CSS3">
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt+"HTML5">
 </div>
+
+## Entre em contato:
+### Email: coutodavi530@gmail.com
