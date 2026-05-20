@@ -1,4 +1,4 @@
-### Olá! Eu sou o Davi do couto!😎
+### Olá! Eu sou o Davi do couto!
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=Davicouto530&show_icons=true&theme=transparent)
 
